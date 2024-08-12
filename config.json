@@ -1,0 +1,6 @@
+{
+    "DISCORD_TOKEN": "ваш_дискорд_токен",
+    "LAVALINK_HOST": "ваш_хост",
+    "LAVALINK_PORT": 2333,
+    "LAVALINK_PASSWORD": "ваш_пароль"
+}
